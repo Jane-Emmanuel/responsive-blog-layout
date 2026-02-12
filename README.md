@@ -7,11 +7,16 @@ responsive layout structuring outside of WordPress.
 - Blog card grid
 - Sidebar layout
 - Responsive design
+- Mobile-friendly
 
-### Technologies
+### Technologies Used
 - HTML
 - CSS (Grid & Flexbox)
 
+### Live Demo
+👉 https://yourusername.github.io/responsive-blog-layout/
+
 ### What I Learned
-- Translating WordPress layouts into raw HTML/CSS
-- Building responsive grids
+- Building responsive layouts with CSS Grid
+- Translating WordPress blog designs into raw HTML/CSS
+- Structuring reusable UI components
